@@ -286,6 +286,10 @@ p {
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 14px;
+        font-size: 10px;
+    }
+
+    input {
+        top: 10px;
     }
 }
